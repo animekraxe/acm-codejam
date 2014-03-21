@@ -1,0 +1,6 @@
+1 data/runave.in		data/runave.out		2
+2 data/friends.in		data/friends.out		2
+3 data/partygames.in		data/partygames.out		2
+4 data/triples.in        data/triples.out     60
+5 data/palmeter.in       data/palmeter.out    2
+6 data/balloons.in       data/balloons.out    2

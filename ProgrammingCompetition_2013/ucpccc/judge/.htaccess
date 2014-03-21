@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Contest Judge"
+AuthUserFile /Users/yuki/Downloads/ProgrammingCompetition_2013/ucpccc/judge/.htpasswd
+require valid-user

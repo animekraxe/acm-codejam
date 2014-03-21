@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+# python2 please
+
+import sys, math
+
+while True:
+    n = int(sys.stdin.readline().strip())
+    if n == 0: break
+    ints = set([int(sys.stdin.readline().strip())**2 for i in range(n)])
+    triples = sorted(set(sorted((x,y,x+y)) for x in ints for y in ints if x+y in ints))
+    for triple in triples:
+        triple = [int(math.sqrt(x)) for x in triple]
+        print " ".join(str(x) for x in triple)
+    
+    

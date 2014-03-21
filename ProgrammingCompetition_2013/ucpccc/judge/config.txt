@@ -1,0 +1,12 @@
+UCR ACM Programming Contest
+lyan@cs.ucr.edu
+17 February 2013
+22:00 + 24:00
+30;1;on
+Problem Set (6 problems, A B C D F G)
+A. Average;                    problemA.pdf
+B. Friends;                    problemB.pdf
+C. Partition;                  problemC.pdf
+D. Pythagorean Triples;        problemD.pdf
+F. Palindrometer;              problemF.pdf
+G. Balloons;                   problemG.pdf

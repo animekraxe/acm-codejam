@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+# python 2 please
+
+import sys
+
+while True:
+    N, A, B = sys.stdin.readline().split()
+    if n == 0:
+        break
